@@ -1,2 +1,2 @@
-console.err("Hello CircleCI! (err)");
-console.log("Hello CircleCI! (log)");
+console.log("Hello CircleCI!");
+process.exit(1);
