@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node index.js; echo 'Hello CircleCI (echo)'"
   },
   "repository": {
     "type": "git",
